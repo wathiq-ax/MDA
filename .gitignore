@@ -1,3 +1,9 @@
 venv/
-.venv/
 __pycache__/
+*.pyc
+data/test_downloads/
+quarantine/
+data/scan_history.csv
+data/watchdog_log.csv
+.agents/
+.claude/
